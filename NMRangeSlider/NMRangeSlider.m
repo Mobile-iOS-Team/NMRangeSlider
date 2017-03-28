@@ -38,7 +38,6 @@ NSUInteger DeviceSystemMajorVersion() {
 
 @end
 
-
 @interface NMRangeSlider ()
 {
     float _lowerTouchOffset;
@@ -51,7 +50,6 @@ NSUInteger DeviceSystemMajorVersion() {
 @property (retain, nonatomic) UIImageView* trackBackground;
 
 @end
-
 
 @implementation NMRangeSlider
 
