@@ -47,8 +47,6 @@ NSUInteger DeviceSystemMajorVersion() {
     BOOL _haveAddedSubviews;
 }
 
-@property (retain, nonatomic) UIImageView* lowerHandle;
-@property (retain, nonatomic) UIImageView* upperHandle;
 @property (retain, nonatomic) UIImageView* track;
 @property (retain, nonatomic) UIImageView* trackBackground;
 
